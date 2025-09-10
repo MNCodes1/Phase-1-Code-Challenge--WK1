@@ -4,7 +4,7 @@
 
 #### By *MaryAnne Warigo*
 
-## Description
+## 
 Student Grade Calculator
 This is a JavaScript program that calculates the grade of a student based on their marks. It prompts the user to input the student's marks (between 0 and 100) and outputs the corresponding grade according to the following criteria:
 
