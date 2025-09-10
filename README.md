@@ -42,4 +42,4 @@ Javascript
 github.com/MNCodes1
 
 ### License
-The content of this site is licensed under the MIT license.
+The content of this site is licensed under the MIT license Copyright (c) 2025.
