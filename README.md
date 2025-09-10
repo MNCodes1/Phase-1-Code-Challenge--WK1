@@ -2,7 +2,7 @@
 
 #### Date, 2025/09/10
 
-#### By *MaryAnne Warig0*
+#### By *MaryAnne Warigo*
 
 ## Description
 Student Grade Calculator
