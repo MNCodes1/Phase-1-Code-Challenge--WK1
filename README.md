@@ -26,7 +26,7 @@ You use git clone to be able to download the documents in the GitHub
 Git
 
 ### Installation instruction
-```
+git clone @github.com:MNCodes1/Phase-1-Code-Challenge--WK1.git
 
 
 ```
