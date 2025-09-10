@@ -6,13 +6,13 @@
 
 ## Student Grade Calculator
 This is a JavaScript program that calculates the grade of a student based on their marks. It prompts the user to input the student's marks (between 0 and 100) and outputs the corresponding grade according to the following criteria:
-
 A > 79
 B: 60 to 79
 C: 49 to 59
 D: 40 to 49
 E: less than 40
-Speed Detector
+
+ ## Speed Detector
 This is a simple JavaScript program that calculates demerit points for speeding violations based on the speed of a car. The program takes the speed of a car as input and determines the demerit points according to the following rules:
 If the speed is less than 70 km/h, it prints "Ok".
 If the speed is 70 km/h or more, for every 5 km/h above the speed limit (70 km/h), it assigns one demerit point.
