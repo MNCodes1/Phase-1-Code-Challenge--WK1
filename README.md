@@ -20,7 +20,7 @@ If the speed is 70 km/h or more, for every 5 km/h above the speed limit (70 km/h
 If the total demerit points exceed 12, the program prints "License suspended".
 
 ## Installation
-You use git clone to be able to download the documents in the GitHub
+You use git clone to download the documents in the GitHub
 
 ## Installation Requirements
 Git
